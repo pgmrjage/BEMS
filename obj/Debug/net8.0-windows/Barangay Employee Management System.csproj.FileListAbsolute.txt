@@ -1,0 +1,17 @@
+D:\Programming Files\BEMS\Barangay Employee Management System\bin\Debug\net8.0-windows\Barangay Employee Management System.exe
+D:\Programming Files\BEMS\Barangay Employee Management System\bin\Debug\net8.0-windows\Barangay Employee Management System.deps.json
+D:\Programming Files\BEMS\Barangay Employee Management System\bin\Debug\net8.0-windows\Barangay Employee Management System.runtimeconfig.json
+D:\Programming Files\BEMS\Barangay Employee Management System\bin\Debug\net8.0-windows\Barangay Employee Management System.dll
+D:\Programming Files\BEMS\Barangay Employee Management System\bin\Debug\net8.0-windows\Barangay Employee Management System.pdb
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\Barangay_Employee_Management_System.Form1.resources
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\Barangay Employee Management System.csproj.GenerateResource.cache
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\Barangay Employee Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\Barangay Employee Management System.AssemblyInfoInputs.cache
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\Barangay Employee Management System.AssemblyInfo.cs
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\Barangay Employee Management System.csproj.CoreCompileInputs.cache
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\Barangay Employee Management System.dll
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\refint\Barangay Employee Management System.dll
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\Barangay Employee Management System.pdb
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\Barangay Employee Management System.genruntimeconfig.cache
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\ref\Barangay Employee Management System.dll
+D:\Programming Files\BEMS\Barangay Employee Management System\obj\Debug\net8.0-windows\Barangay_Employee_Management_System.Form2.resources
