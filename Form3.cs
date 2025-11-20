@@ -10,18 +10,16 @@ using System.Windows.Forms;
 
 namespace Barangay_Employee_Management_System
 {
-    public partial class Form2 : Form
+    public partial class Form3 : Form
     {
-        public Form2()
+        public Form3()
         {
             InitializeComponent();
         }
 
-        //StripMenuItem ---> "NEW" Tab
-        private void newToolStripMenuItem_Click(object sender, EventArgs e)
+        private void btn_cancel_Click(object sender, EventArgs e)
         {
-            Form3 CreateForm = new Form3();
-            CreateForm.Show();
+            this.Close();
         }
     }
 }

@@ -1,0 +1,102 @@
+############################
+# Visual Studio
+############################
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio working folder
+.vs/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Bb]uild/
+
+# Visual Studio cache / generated files
+*.dbmdl
+*.cache
+*.pdb
+*.mdb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Azure build artifacts
+csx/
+*.build.csdef
+
+# Publish output
+*.publishsettings
+*.pubxml
+*.pubxml.user
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# Backup files
+*.bak
+*.orig
+
+# Web stuff
+node_modules/
+npm-debug.log
+yarn-error.log
+
+############################
+# .NET
+############################
+
+# Compiled files
+*.dll
+*.exe
+*.app
+*.appsettings
+*.cache
+*.config
+
+# Entity Framework
+migrations/
+
+# ASP.NET
+App_Data/
+App_Data/*
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+############################
+# OS Generated
+############################
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store

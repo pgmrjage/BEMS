@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Barangay Employee Management System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a9b25ecd3fc07623184f3c6cefbf31dbf4655d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Barangay Employee Management System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Barangay Employee Management System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
